@@ -1,0 +1,3 @@
+training/*
+*.zip
+.ipynb_checkpoints/*
